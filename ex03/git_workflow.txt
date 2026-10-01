@@ -1,0 +1,72 @@
+Git Workflow
+Repository Setup
+
+git init
+
+git branch -M main
+
+git remote -v
+
+git remote set-url origin https://github.com/saifalhorane/discovery-web-piscine.git
+
+Create and Track Files
+
+touch hello.txt
+
+git status
+
+git add hello.txt
+
+git status
+
+git commit -m "Add hello.txt"
+
+Push to GitHub
+
+git push -u origin main
+
+Edit Project Files
+
+Edit README.md
+
+git status
+
+Stage Changes
+
+git add README.md
+
+git status
+
+Commit Changes
+
+git commit -m "Add README"
+
+Push Changes
+
+git push
+
+Check History
+
+git log
+
+Check Remote
+
+git remote -v
+
+Complete Git Workflow
+
+Edit
+↓
+git status
+↓
+git add
+↓
+git status
+↓
+git commit
+↓
+git log
+↓
+git push
+↓
+GitHub
