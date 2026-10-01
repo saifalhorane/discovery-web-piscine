@@ -1,0 +1,5 @@
+commit 0748b6c02e8667a88b50dba4113b70b16b4d1d52
+Author: saif alhourani <saifahorane11@icloud.com>
+Date:   Thu Oct 1 13:02:25 2026 +0300
+
+    Add hello.txt

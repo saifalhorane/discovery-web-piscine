@@ -1,0 +1,47 @@
+.:
+total 4
+drwxr-xr-x  5 salhoura _amman   77 Oct  1 12:01 .
+drwx------ 16 salhoura _amman 4096 Oct  1 12:01 ..
+drwxr-xr-x  2 salhoura _amman    6 Oct  1 11:27 archives
+drwxr-xr-x  3 salhoura _amman   17 Oct  1 11:28 projects
+drwxr-xr-x  2 salhoura _amman    6 Oct  1 11:27 tools
+-rw-r--r--  1 salhoura _amman    0 Oct  1 12:01 tree_structure.txt
+
+./archives:
+total 0
+drwxr-xr-x 2 salhoura _amman  6 Oct  1 11:27 .
+drwxr-xr-x 5 salhoura _amman 77 Oct  1 12:01 ..
+
+./projects:
+total 0
+drwxr-xr-x 3 salhoura _amman 17 Oct  1 11:28 .
+drwxr-xr-x 5 salhoura _amman 77 Oct  1 12:01 ..
+drwxr-xr-x 5 salhoura _amman 52 Oct  1 11:53 web
+
+./projects/web:
+total 0
+drwxr-xr-x 5 salhoura _amman 52 Oct  1 11:53 .
+drwxr-xr-x 3 salhoura _amman 17 Oct  1 11:28 ..
+drwxr-xr-x 2 salhoura _amman  6 Oct  1 11:29 backend
+drwxr-xr-x 2 salhoura _amman  6 Oct  1 11:29 fontend
+drwxr-xr-x 2 salhoura _amman  6 Oct  1 11:53 frontend
+
+./projects/web/backend:
+total 0
+drwxr-xr-x 2 salhoura _amman  6 Oct  1 11:29 .
+drwxr-xr-x 5 salhoura _amman 52 Oct  1 11:53 ..
+
+./projects/web/fontend:
+total 0
+drwxr-xr-x 2 salhoura _amman  6 Oct  1 11:29 .
+drwxr-xr-x 5 salhoura _amman 52 Oct  1 11:53 ..
+
+./projects/web/frontend:
+total 0
+drwxr-xr-x 2 salhoura _amman  6 Oct  1 11:53 .
+drwxr-xr-x 5 salhoura _amman 52 Oct  1 11:53 ..
+
+./tools:
+total 0
+drwxr-xr-x 2 salhoura _amman  6 Oct  1 11:27 .
+drwxr-xr-x 5 salhoura _amman 77 Oct  1 12:01 ..
